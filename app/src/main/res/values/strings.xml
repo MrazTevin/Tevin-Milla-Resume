@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Resume</string>
+    <string name= "intro_pro"> Hello I\'m </string>
+    <string name="tevin_milla">Tevin Milla</string>
+    <string name="role">Software Engineer</string>
+    <string name="button_desc">About Me</string>
+    <string name="button_desc2">My Work</string>
 </resources>
